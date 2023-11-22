@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "458334173303",
+    "project_id": "ciberfirebase-7d1ce",
+    "storage_bucket": "ciberfirebase-7d1ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458334173303:android:216453cbfbf5084351ae72",
+        "android_client_info": {
+          "package_name": "com.negocio"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfEJDI1rR_MDL75G1F-xEgRA761hLbsjI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
